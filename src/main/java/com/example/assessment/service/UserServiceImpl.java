@@ -33,11 +33,6 @@ public class UserServiceImpl implements UserService {
             return this.retrieveAllUsers();
         if(!User.MALE.equals(gender) && !User.FEMALE.equals(gender))
             throw new IllegalArgumentException("Invalid value for gender parameter");
-//        return this.repository.findAll()
-//                .stream()
-//                .filter(el -> gender.equals(el.getGender()))
-//                .map(this.mapper::userDtoToUser)
-//                .collect(Collectors.toList());
         return repository.findByGender(gender)
                 .stream().map(this.mapper::userDtoToUser)
                 .collect(Collectors.toList());

@@ -11,6 +11,7 @@ import java.util.List;
 
 public class GorestUserRepository implements UserRepository {
 
+    private static final String GENDER_PARAM = "gender";
     final String endpoint;
     final RestTemplate restTemplate;
 
@@ -28,7 +29,7 @@ public class GorestUserRepository implements UserRepository {
     @Override
     public List<UserDto> findByGender(String gender) {
         UriComponentsBuilder builder = UriComponentsBuilder.fromUriString(this.endpoint)
-                .queryParam("gender", gender);
+                .queryParam(GENDER_PARAM, gender);
         ResponseEntity<UserDto[]> users = this.restTemplate.getForEntity(builder.build().toString(), UserDto[].class);
         return users.getBody() != null ? Arrays.asList(users.getBody()) : new ArrayList<>();
     }
