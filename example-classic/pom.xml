@@ -8,7 +8,7 @@
 		<version>2.7.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.aidexa</groupId>
+	<groupId>com.example</groupId>
 	<artifactId>assessment</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>assessment</name>
