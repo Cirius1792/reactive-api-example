@@ -1,0 +1,23 @@
+
+config:
+  target: "http://localhost:8080"
+  http:
+    timeout: 120
+    extendedMetrics: true
+  phases:
+  - duration: 30
+    arrivalRate: 2
+    name: Warm up
+  - duration: 300
+    arrivalRate: 2
+    rampTo: 50
+    name: Ramp up load
+  - duration: 300
+    arrivalRate: 50
+    name: Sustained load
+
+scenarios:
+  - name: "Retrieve Users"
+    flow:
+      - get:
+          url: "/users"
