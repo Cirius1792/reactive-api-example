@@ -1,11 +1,11 @@
 package com.example.examplereactive.service;
 
 
-import java.util.List;
-
 import com.example.examplereactive.entity.User;
 
+import reactor.core.publisher.Flux;
+
 public interface UserService {
-    List<User> retrieveAllUsers();
-    List<User> retrieveUsers(String gender);
+    Flux<User> retrieveAllUsers();
+    Flux<User> retrieveUsers(String gender);
 }
