@@ -5,15 +5,15 @@ config:
     timeout: 120
     extendedMetrics: true
   phases:
-  - duration: 30
+  - duration: 10
     arrivalRate: 2
     name: Warm up
-  - duration: 300
+  - duration: 180
     arrivalRate: 2
-    rampTo: 50
+    rampTo: 100
     name: Ramp up load
-  - duration: 300
-    arrivalRate: 50
+  - duration: 180
+    arrivalRate: 100
     name: Sustained load
 
 scenarios:
