@@ -2,16 +2,16 @@
 
 ## Description
 
-The aim of this project is to compare performance and resources utilization of the same application implemented first with the classic Spring MVC approach, then with the Spring Web Flux approach. 
+The aim of this project is to compare performance and resources utilization of the same application implemented first with the classic Spring MVC approach, then with the Spring Web Flux approach.
 
-In this project you will find two maven project:
+In this project you will find two maven projects:
 
 - example-classic
 - example-reactive
 
 Both implementing a web app exposing only one endpoint: /users. When invoked, the edpoint proxyes the results returned by https://gorest.co.in/public/v2/users
 
-This scenario allows us to highlight the main benefits of the reactive programming paradigm, which is to reduce the amount of time wasted waiting for external resources to return the quiried data, while keeping the application simple enough. 
+This scenario allows us to highlight the main benefits of the reactive programming paradigm, which is to reduce the amount of time wasted waiting for external resources to return the quiried data, while keeping the application simple enough.
 
 ## Experimental Settings
 
@@ -62,7 +62,7 @@ All the data collected during the experiments are in the "experiment-results" fo
 
 - the original reports produced by artillery, both in json and html format
 - the original resource utilization data extracted by docker
-- a comparison in excel forma, where the following plots have been produced (I'm sorry for using excel!)
+- a comparison in excel format, where the following plots have been produced (I'm sorry for using excel!)
 
 ### Http Requests Execution time
 
@@ -73,11 +73,15 @@ All the data collected during the experiments are in the "experiment-results" fo
 
 ### Resource Utilization
 
-Considering that the raw CPU utilization is not a reliale metric by itself to observe the behaviour of an application, in the following plot also its moving avarage with a period of 5 has been evaluated.
+Considering that the raw CPU utilization is not a reliable metric by itself to observe the behaviour of an application, in the following plots also its moving avarage with a period of 5 has been evaluated.
 
 ![example-classic](experiment-results/example-classic.png)
-![example-classic](experiment-results/example-reactive.png)
+![example-reactive](experiment-results/example-reactive.png)
+
+While the lower memory footprint of the reactive implementation is quite evident from the previous plots, it can be interesting to see a side by side comparison of the ma cpu utilization between the classic and the reactive implementation of the application: 
+![side-by-side-ma-cpu-utilization](experiment-results/side-by-side%20ma%20cpu%20usage.png)
+Where the plot has been built bu comparing, instant by instant, the moving avarage of the classic implementation with the reactive one. The plot shows that in generale the classic implementation is more CPU demanding, reaching peeks of over 20% more cpu usage. 
 
 ## Conclusions
 
-The results obtained by onbserving the behavoir of both applications show that under a substained load the reactive implementaion is more consistent in the response time while consuming fewer resources both in terms of CPU and Memory. What is less evident and could deserve further investigations is the behavour of both application until t 80th where the CPU utilization appears to be higher then in the final part of the load test, while an opposite behavour would have been expected. 
+The results obtained by observing the behaviour of both applications show that under a substained load the reactive implementaion is more consistent in the response time while consuming fewer resources both in terms of CPU and Memory. What is less evident and could deserve further investigations is the behaviour of both applications until t 80th where the CPU utilization appears to be higher then in the final part of the load test, while an opposite behaviour would have been expected.
