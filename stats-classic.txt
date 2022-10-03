@@ -1,521 +1,458 @@
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O        PIDS
-acbb94a66fa9   example-classic-service-1   0.36%     82.94MiB / 256MiB     32.40%    4.59kB / 0B   4.1kB / 307kB    27
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     120kB / 0B    33.3MB / 999kB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O        PIDS
-acbb94a66fa9   example-classic-service-1   0.21%     82.94MiB / 256MiB     32.40%    4.59kB / 0B   4.1kB / 319kB    27
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     120kB / 0B    33.3MB / 999kB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O        PIDS
-acbb94a66fa9   example-classic-service-1   0.35%     83.06MiB / 256MiB     32.45%    4.59kB / 0B   4.1kB / 336kB    27
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     120kB / 0B    33.3MB / 999kB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O        PIDS
-acbb94a66fa9   example-classic-service-1   0.17%     82.95MiB / 256MiB     32.40%    4.59kB / 0B   4.1kB / 336kB    27
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     120kB / 0B    33.3MB / 999kB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
-acbb94a66fa9   example-classic-service-1   24.63%    89.38MiB / 256MiB     34.91%    7.2kB / 1.16kB   4.1kB / 352kB    27
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     120kB / 0B       33.3MB / 999kB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
-acbb94a66fa9   example-classic-service-1   24.74%    97.26MiB / 256MiB     37.99%    10.8kB / 4.33kB   4.1kB / 352kB    33
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     120kB / 0B        33.3MB / 999kB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
-acbb94a66fa9   example-classic-service-1   25.98%    110.9MiB / 256MiB     43.31%    195kB / 33.6kB   4.1kB / 385kB    60
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     120kB / 0B       33.3MB / 999kB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
-acbb94a66fa9   example-classic-service-1   26.39%    140.3MiB / 256MiB     54.82%    311kB / 54.9kB   4.1kB / 385kB    89
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     120kB / 0B       33.3MB / 999kB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
-acbb94a66fa9   example-classic-service-1   26.11%    153.7MiB / 256MiB     60.03%    377kB / 68.6kB   4.1kB / 401kB    99
-4124a0bc82fc   postgres-postgres-1         0.01%     32.24MiB / 13.55GiB   0.23%     120kB / 0B       33.3MB / 999kB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
-acbb94a66fa9   example-classic-service-1   24.05%    141.5MiB / 256MiB     55.28%    423kB / 81.4kB   4.1kB / 418kB    105
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     120kB / 0B       33.3MB / 999kB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
-acbb94a66fa9   example-classic-service-1   24.47%    143.4MiB / 256MiB     56.00%    494kB / 96.7kB   4.1kB / 451kB    111
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     120kB / 0B       33.3MB / 999kB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
-acbb94a66fa9   example-classic-service-1   24.38%    142.9MiB / 256MiB     55.82%    528kB / 113kB   4.1kB / 451kB    113
-4124a0bc82fc   postgres-postgres-1         0.01%     32.24MiB / 13.55GiB   0.23%     120kB / 0B      33.3MB / 999kB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
-acbb94a66fa9   example-classic-service-1   23.39%    155.9MiB / 256MiB     60.88%    584kB / 136kB   4.1kB / 467kB    169
-4124a0bc82fc   postgres-postgres-1         0.01%     32.24MiB / 13.55GiB   0.23%     120kB / 0B      33.3MB / 999kB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O       PIDS
-acbb94a66fa9   example-classic-service-1   24.34%    159.6MiB / 256MiB     62.35%    656kB / 157kB   4.1kB / 483kB   144
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     121kB / 0B      33.3MB / 1MB    7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O       PIDS
-acbb94a66fa9   example-classic-service-1   25.36%    177.6MiB / 256MiB     69.38%    874kB / 212kB   4.1kB / 500kB   122
-4124a0bc82fc   postgres-postgres-1         0.01%     32.24MiB / 13.55GiB   0.23%     121kB / 0B      33.3MB / 1MB    7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O       PIDS
-acbb94a66fa9   example-classic-service-1   24.52%    193.7MiB / 256MiB     75.65%    992kB / 237kB   4.1kB / 532kB   125
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     121kB / 0B      33.3MB / 1MB    7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O       PIDS
-acbb94a66fa9   example-classic-service-1   24.33%    182.9MiB / 256MiB     71.46%    1.16MB / 278kB   4.1kB / 549kB   131
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     121kB / 0B       33.3MB / 1MB    7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O       PIDS
-acbb94a66fa9   example-classic-service-1   26.07%    193.5MiB / 256MiB     75.57%    1.33MB / 328kB   4.1kB / 565kB   141
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     121kB / 0B       33.3MB / 1MB    7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O       PIDS
-acbb94a66fa9   example-classic-service-1   24.84%    219.7MiB / 256MiB     85.80%    1.48MB / 368kB   4.1kB / 582kB   156
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     121kB / 0B       33.3MB / 1MB    7
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O      BLOCK I/O      PIDS
-4124a0bc82fc   postgres-postgres-1   0.01%     32.24MiB / 13.55GiB   0.23%     121kB / 0B   33.3MB / 1MB   7
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O      BLOCK I/O      PIDS
-4124a0bc82fc   postgres-postgres-1   0.01%     32.24MiB / 13.55GiB   0.23%     121kB / 0B   33.3MB / 1MB   7
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O      BLOCK I/O      PIDS
-4124a0bc82fc   postgres-postgres-1   0.00%     32.24MiB / 13.55GiB   0.23%     122kB / 0B   33.3MB / 1MB   7
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O      BLOCK I/O      PIDS
-4124a0bc82fc   postgres-postgres-1   0.00%     32.24MiB / 13.55GiB   0.23%     122kB / 0B   33.3MB / 1MB   7
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O      BLOCK I/O      PIDS
-4124a0bc82fc   postgres-postgres-1   0.00%     32.24MiB / 13.55GiB   0.23%     122kB / 0B   33.3MB / 1MB   7
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O      BLOCK I/O      PIDS
-4124a0bc82fc   postgres-postgres-1   0.01%     32.24MiB / 13.55GiB   0.23%     122kB / 0B   33.3MB / 1MB   7
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O      BLOCK I/O      PIDS
-4124a0bc82fc   postgres-postgres-1   0.00%     32.24MiB / 13.55GiB   0.23%     122kB / 0B   33.3MB / 1MB   7
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O      BLOCK I/O      PIDS
-4124a0bc82fc   postgres-postgres-1   0.00%     32.24MiB / 13.55GiB   0.23%     122kB / 0B   33.3MB / 1MB   7
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O      BLOCK I/O      PIDS
-4124a0bc82fc   postgres-postgres-1   0.00%     32.24MiB / 13.55GiB   0.23%     122kB / 0B   33.3MB / 1MB   7
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O      BLOCK I/O      PIDS
-4124a0bc82fc   postgres-postgres-1   0.00%     32.24MiB / 13.55GiB   0.23%     122kB / 0B   33.3MB / 1MB   7
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O      BLOCK I/O      PIDS
-4124a0bc82fc   postgres-postgres-1   0.00%     32.24MiB / 13.55GiB   0.23%     122kB / 0B   33.3MB / 1MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O      BLOCK I/O      PIDS
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     122kB / 0B   33.3MB / 1MB   7
-fe1b9db31184   example-classic-service-1   51.98%    24.1MiB / 256MiB      9.41%     526B / 0B    0B / 0B        12
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O      PIDS
-fe1b9db31184   example-classic-service-1   49.98%    44.29MiB / 256MiB     17.30%    2.76kB / 0B   0B / 0B        12
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     122kB / 0B    33.3MB / 1MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O      PIDS
-fe1b9db31184   example-classic-service-1   49.06%    53.45MiB / 256MiB     20.88%    3.79kB / 0B   0B / 0B        12
-4124a0bc82fc   postgres-postgres-1         0.01%     32.24MiB / 13.55GiB   0.23%     123kB / 0B    33.3MB / 1MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   49.59%    85.38MiB / 256MiB     33.35%    4.06kB / 0B   0B / 49.2kB       12
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B    33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   7.53%     82.75MiB / 256MiB     32.32%    4.13kB / 0B   0B / 49.2kB       27
-4124a0bc82fc   postgres-postgres-1         0.01%     32.24MiB / 13.55GiB   0.23%     123kB / 0B    33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   0.11%     82.75MiB / 256MiB     32.32%    4.24kB / 0B   0B / 49.2kB       27
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B    33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   49.26%    96.34MiB / 256MiB     37.63%    34.9kB / 5.28kB   0B / 65.5kB       27
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B        33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   48.21%    106.8MiB / 256MiB     41.73%    110kB / 19.4kB   0B / 81.9kB       31
-4124a0bc82fc   postgres-postgres-1         0.01%     32.24MiB / 13.55GiB   0.23%     123kB / 0B       33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   4.26%     110.7MiB / 256MiB     43.25%    133kB / 51.6kB   0B / 98.3kB       34
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B       33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   16.67%    108.8MiB / 256MiB     42.50%    210kB / 98.6kB   0B / 115kB        34
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B       33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   17.48%    110.4MiB / 256MiB     43.12%    333kB / 175kB   0B / 131kB        34
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B      33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   15.45%    111.6MiB / 256MiB     43.58%    481kB / 270kB   0B / 164kB        34
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B      33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   18.80%    114.2MiB / 256MiB     44.63%    624kB / 361kB   0B / 180kB        34
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B      33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   19.01%    114.1MiB / 256MiB     44.58%    719kB / 422kB   0B / 197kB        34
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B      33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   49.47%    126.7MiB / 256MiB     49.49%    950kB / 562kB   0B / 213kB        35
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B      33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   23.92%    121.4MiB / 256MiB     47.42%    1.15MB / 682kB   0B / 229kB        34
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B       33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   38.75%    124.2MiB / 256MiB     48.50%    1.52MB / 913kB   0B / 262kB        34
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B       33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   34.38%    122.7MiB / 256MiB     47.94%    1.83MB / 1.1MB   0B / 262kB        34
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B       33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   17.05%    123.3MiB / 256MiB     48.15%    2.09MB / 1.26MB   0B / 295kB        34
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B        33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   44.74%    124.6MiB / 256MiB     48.69%    2.38MB / 1.43MB   0B / 295kB        34
-4124a0bc82fc   postgres-postgres-1         0.06%     32.24MiB / 13.55GiB   0.23%     123kB / 0B        33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   38.36%    127.5MiB / 256MiB     49.79%    2.77MB / 1.66MB   0B / 328kB        34
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B        33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   29.61%    131.8MiB / 256MiB     51.50%    3.21MB / 1.92MB   0B / 344kB        34
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B        33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   23.39%    129.6MiB / 256MiB     50.63%    3.78MB / 2.28MB   0B / 360kB        34
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B        33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   19.29%    129.7MiB / 256MiB     50.66%    4.07MB / 2.45MB   0B / 377kB        34
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B        33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   21.15%    130.1MiB / 256MiB     50.83%    4.61MB / 2.78MB   0B / 393kB        34
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B        33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   47.33%    132.1MiB / 256MiB     51.62%    5.09MB / 3.06MB   0B / 410kB        34
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B        33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   18.22%    141.5MiB / 256MiB     55.29%    5.76MB / 3.43MB   0B / 426kB        49
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B        33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   35.26%    143.7MiB / 256MiB     56.14%    6.36MB / 3.78MB   0B / 426kB        49
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B        33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   39.26%    143.9MiB / 256MiB     56.22%    6.75MB / 4.02MB   0B / 442kB        49
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B        33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   17.98%    144.7MiB / 256MiB     56.52%    7.35MB / 4.38MB   0B / 475kB        49
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B        33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   23.51%    145.5MiB / 256MiB     56.85%    7.96MB / 4.75MB   0B / 492kB        49
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B        33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   30.95%    150.9MiB / 256MiB     58.96%    8.55MB / 5.11MB   0B / 524kB        49
-4124a0bc82fc   postgres-postgres-1         0.01%     32.24MiB / 13.55GiB   0.23%     123kB / 0B        33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   47.56%    152MiB / 256MiB       59.36%    9.44MB / 5.63MB   0B / 557kB        49
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B        33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   33.49%    149.9MiB / 256MiB     58.56%    10.1MB / 6.05MB   0B / 573kB        50
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B        33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   19.40%    150.7MiB / 256MiB     58.88%    10.8MB / 6.45MB   0B / 573kB        49
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     123kB / 0B        33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   32.03%    151.9MiB / 256MiB     59.32%    11.5MB / 6.85MB   0B / 606kB        49
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     124kB / 0B        33.3MB / 1.01MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   39.17%    152.8MiB / 256MiB     59.67%    12.3MB / 7.28MB   0B / 606kB        49
-4124a0bc82fc   postgres-postgres-1         0.07%     32.24MiB / 13.55GiB   0.23%     124kB / 0B        33.3MB / 1.02MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   25.13%    163.9MiB / 256MiB     64.03%    13.1MB / 7.78MB   0B / 639kB        49
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     124kB / 0B        33.3MB / 1.02MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   33.74%    156.7MiB / 256MiB     61.20%    14MB / 8.28MB   0B / 655kB        49
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     124kB / 0B      33.3MB / 1.02MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   39.03%    161.4MiB / 256MiB     63.03%    14.6MB / 8.63MB   0B / 672kB        49
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     124kB / 0B        33.3MB / 1.02MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   50.52%    199MiB / 256MiB       77.73%    15.9MB / 9.25MB   0B / 688kB        100
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     124kB / 0B        33.3MB / 1.02MB   7
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
-fe1b9db31184   example-classic-service-1   49.42%    221.8MiB / 256MiB     86.62%    16.7MB / 9.67MB   0B / 705kB        128
-4124a0bc82fc   postgres-postgres-1         0.00%     32.24MiB / 13.55GiB   0.23%     124kB / 0B        33.3MB / 1.02MB   7
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O      BLOCK I/O         PIDS
-4124a0bc82fc   postgres-postgres-1   0.00%     32.24MiB / 13.55GiB   0.23%     124kB / 0B   33.3MB / 1.02MB   7
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O      BLOCK I/O         PIDS
-4124a0bc82fc   postgres-postgres-1   0.00%     32.24MiB / 13.55GiB   0.23%     125kB / 0B   33.3MB / 1.02MB   7
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O      BLOCK I/O         PIDS
-4124a0bc82fc   postgres-postgres-1   0.00%     32.24MiB / 13.55GiB   0.23%     125kB / 0B   33.3MB / 1.02MB   7
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O      BLOCK I/O         PIDS
-4124a0bc82fc   postgres-postgres-1   0.00%     32.24MiB / 13.55GiB   0.23%     126kB / 0B   33.3MB / 1.02MB   7
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O      BLOCK I/O         PIDS
-4124a0bc82fc   postgres-postgres-1   0.00%     32.24MiB / 13.55GiB   0.23%     126kB / 0B   33.3MB / 1.02MB   7
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O      BLOCK I/O         PIDS
-4124a0bc82fc   postgres-postgres-1   0.00%     32.24MiB / 13.55GiB   0.23%     126kB / 0B   33.3MB / 1.02MB   7
-CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O      BLOCK I/O         PIDS
-4124a0bc82fc   postgres-postgres-1   0.01%     32.24MiB / 13.55GiB   0.23%     126kB / 0B   33.3MB / 1.02MB   7
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   0.14%     82.65MiB / 512MiB   16.14%    4.24kB / 0B   57.3kB / 111kB   27
+ba1dffe096a9   example-classic-service-1   0.20%     82.71MiB / 512MiB   16.16%    2.89kB / 0B   180kB / 98.3kB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   0.21%     82.71MiB / 512MiB   16.16%    2.89kB / 0B   180kB / 115kB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   0.13%     82.71MiB / 512MiB   16.16%    2.89kB / 0B   180kB / 131kB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   49.43%    91.28MiB / 512MiB   17.83%    4.21kB / 602B   188kB / 147kB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   50.22%    97.34MiB / 512MiB   19.01%    43.9kB / 7.06kB   188kB / 147kB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   43.22%    105.7MiB / 512MiB   20.64%    106kB / 39.1kB   188kB / 180kB   32
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   4.87%     106.5MiB / 512MiB   20.80%    125kB / 51.3kB   188kB / 197kB   32
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   37.69%    108.5MiB / 512MiB   21.18%    210kB / 105kB   188kB / 213kB   32
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   11.97%    109MiB / 512MiB     21.30%    290kB / 155kB   188kB / 229kB   32
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   25.53%    110.1MiB / 512MiB   21.51%    373kB / 207kB   188kB / 246kB   32
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   26.11%    110.8MiB / 512MiB   21.65%    444kB / 251kB   188kB / 262kB   32
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   21.59%    112.7MiB / 512MiB   22.01%    569kB / 326kB   188kB / 279kB   32
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   30.57%    113.2MiB / 512MiB   22.11%    696kB / 406kB   188kB / 295kB   32
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   38.56%    115.4MiB / 512MiB   22.53%    827kB / 485kB   188kB / 295kB   32
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   22.64%    115.8MiB / 512MiB   22.62%    937kB / 554kB   188kB / 328kB   32
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   20.93%    116.4MiB / 512MiB   22.73%    1.12MB / 666kB   188kB / 328kB   32
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   30.57%    117.3MiB / 512MiB   22.90%    1.29MB / 767kB   188kB / 344kB   32
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   15.75%    118MiB / 512MiB     23.05%    1.44MB / 858kB   188kB / 377kB   32
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   25.81%    119MiB / 512MiB     23.25%    1.68MB / 1MB   188kB / 393kB   32
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   11.08%    120.7MiB / 512MiB   23.58%    1.87MB / 1.12MB   188kB / 410kB   32
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   12.37%    132.4MiB / 512MiB   25.86%    2.05MB / 1.22MB   188kB / 426kB   32
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   35.69%    128.5MiB / 512MiB   25.09%    2.21MB / 1.32MB   188kB / 442kB   32
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   33.54%    131.3MiB / 512MiB   25.64%    2.43MB / 1.45MB   188kB / 459kB   32
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   51.87%    143.4MiB / 512MiB   28.01%    2.75MB / 1.63MB   188kB / 475kB   32
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   40.83%    136.1MiB / 512MiB   26.59%    3.02MB / 1.79MB   188kB / 492kB   32
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   48.14%    128.9MiB / 512MiB   25.18%    3.42MB / 2.01MB   188kB / 508kB   36
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   27.94%    131.2MiB / 512MiB   25.62%    3.76MB / 2.21MB   188kB / 524kB   36
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   18.49%    131.1MiB / 512MiB   25.60%    4MB / 2.36MB   188kB / 541kB   36
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   31.57%    133.7MiB / 512MiB   26.12%    4.36MB / 2.56MB   188kB / 573kB   36
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   35.18%    142.2MiB / 512MiB   27.77%    4.78MB / 2.78MB   188kB / 590kB   49
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   28.87%    143MiB / 512MiB     27.94%    5.13MB / 2.98MB   188kB / 590kB   49
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   36.57%    145.1MiB / 512MiB   28.34%    5.55MB / 3.22MB   188kB / 606kB   49
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   28.08%    145.7MiB / 512MiB   28.46%    5.98MB / 3.47MB   188kB / 623kB   49
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   30.91%    145.2MiB / 512MiB   28.36%    6.43MB / 3.71MB   188kB / 639kB   49
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   34.03%    146.6MiB / 512MiB   28.62%    6.86MB / 3.95MB   188kB / 672kB   49
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   22.74%    149.5MiB / 512MiB   29.19%    7.3MB / 4.2MB   188kB / 688kB   49
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   42.41%    158.6MiB / 512MiB   30.97%    7.7MB / 4.43MB   188kB / 705kB   49
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   22.63%    148.2MiB / 512MiB   28.94%    8.08MB / 4.65MB   188kB / 721kB   49
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   19.69%    148.9MiB / 512MiB   29.09%    8.59MB / 4.96MB   188kB / 737kB   49
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   27.79%    150.9MiB / 512MiB   29.47%    9.12MB / 5.26MB   188kB / 754kB   49
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   28.17%    151.7MiB / 512MiB   29.64%    9.62MB / 5.56MB   188kB / 770kB   49
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   43.94%    162.1MiB / 512MiB   31.66%    10.1MB / 5.84MB   188kB / 770kB   49
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   21.68%    153.7MiB / 512MiB   30.03%    10.6MB / 6.14MB   188kB / 803kB   49
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   39.47%    156.2MiB / 512MiB   30.50%    11.1MB / 6.45MB   188kB / 819kB   49
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   29.27%    155.5MiB / 512MiB   30.36%    11.7MB / 6.78MB   188kB / 819kB   49
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   30.73%    166.8MiB / 512MiB   32.57%    12.3MB / 7.09MB   188kB / 836kB   49
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   56.34%    169.7MiB / 512MiB   33.14%    12.9MB / 7.42MB   188kB / 868kB   51
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   49.05%    195.4MiB / 512MiB   38.16%    13.6MB / 7.81MB   188kB / 885kB   79
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   38.54%    175.9MiB / 512MiB   34.37%    14.2MB / 8.14MB   188kB / 901kB   79
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   32.38%    195.1MiB / 512MiB   38.10%    14.8MB / 8.5MB   188kB / 918kB   88
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   16.23%    180.8MiB / 512MiB   35.32%    15.5MB / 8.92MB   188kB / 934kB   88
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   31.96%    183.7MiB / 512MiB   35.87%    16.1MB / 9.27MB   188kB / 934kB   88
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   28.85%    187.3MiB / 512MiB   36.57%    16.7MB / 9.62MB   188kB / 950kB   88
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   35.11%    189.7MiB / 512MiB   37.05%    17.5MB / 10MB   188kB / 967kB   88
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   25.53%    187MiB / 512MiB     36.53%    18.1MB / 10.4MB   188kB / 983kB   88
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   30.91%    188.5MiB / 512MiB   36.82%    18.9MB / 10.8MB   188kB / 999kB   88
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   29.49%    189.5MiB / 512MiB   37.02%    19.6MB / 11.2MB   209kB / 1.02MB   88
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   49.44%    203.1MiB / 512MiB   39.67%    20.4MB / 11.6MB   209kB / 1.03MB   100
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   50.30%    207.5MiB / 512MiB   40.52%    21.2MB / 12MB   209kB / 1.05MB   122
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   49.72%    220.3MiB / 512MiB   43.02%    22MB / 12.3MB   209kB / 1.06MB   138
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   48.97%    235.1MiB / 512MiB   45.92%    22.9MB / 12.8MB   209kB / 1.1MB   153
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   46.38%    247.9MiB / 512MiB   48.41%    23.6MB / 13.2MB   209kB / 1.11MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   47.33%    252.2MiB / 512MiB   49.25%    24.4MB / 13.7MB   209kB / 1.11MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   49.26%    262.8MiB / 512MiB   51.33%    25.1MB / 14.2MB   209kB / 1.13MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   40.83%    254.1MiB / 512MiB   49.62%    25.7MB / 14.5MB   209kB / 1.16MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   18.55%    255.5MiB / 512MiB   49.90%    26.5MB / 15MB   209kB / 1.16MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   12.57%    254.8MiB / 512MiB   49.77%    27.3MB / 15.5MB   209kB / 1.18MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   33.57%    254.5MiB / 512MiB   49.71%    28.1MB / 16.1MB   209kB / 1.2MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   49.99%    265.5MiB / 512MiB   51.85%    28.9MB / 16.5MB   209kB / 1.21MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   14.17%    261.7MiB / 512MiB   51.12%    29.7MB / 17MB   209kB / 1.23MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   20.47%    256.2MiB / 512MiB   50.05%    30.5MB / 17.6MB   209kB / 1.25MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   14.44%    256.3MiB / 512MiB   50.07%    31.3MB / 18.1MB   209kB / 1.26MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   39.75%    256.1MiB / 512MiB   50.02%    32.1MB / 18.6MB   209kB / 1.28MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   50.08%    258MiB / 512MiB     50.40%    33.2MB / 19.2MB   209kB / 1.29MB   220
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   32.31%    270MiB / 512MiB     52.73%    34MB / 19.6MB   209kB / 1.31MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   15.15%    320.7MiB / 512MiB   62.63%    34.9MB / 20.2MB   209kB / 1.33MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   44.42%    267.7MiB / 512MiB   52.29%    35.8MB / 20.8MB   209kB / 1.36MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   11.13%    267.4MiB / 512MiB   52.23%    36.6MB / 21.3MB   209kB / 1.36MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   15.69%    258.6MiB / 512MiB   50.51%    37.6MB / 21.9MB   209kB / 1.38MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   10.63%    258.4MiB / 512MiB   50.46%    38.4MB / 22.5MB   209kB / 1.39MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   11.29%    258.7MiB / 512MiB   50.52%    39.2MB / 22.9MB   209kB / 1.41MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   12.54%    258.7MiB / 512MiB   50.52%    40MB / 23.5MB   209kB / 1.43MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   10.68%    258.8MiB / 512MiB   50.54%    40.8MB / 24MB   209kB / 1.44MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   10.79%    259MiB / 512MiB     50.58%    41.6MB / 24.5MB   209kB / 1.45MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   11.27%    259MiB / 512MiB     50.59%    42.4MB / 25MB   209kB / 1.47MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   11.53%    259.3MiB / 512MiB   50.65%    43.1MB / 25.5MB   209kB / 1.49MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   26.03%    260.1MiB / 512MiB   50.80%    44.2MB / 26MB   209kB / 1.5MB   219
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   49.88%    262.4MiB / 512MiB   51.24%    45.1MB / 26.5MB   209kB / 1.52MB   230
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   49.53%    331.2MiB / 512MiB   64.68%    46.1MB / 27.1MB   209kB / 1.54MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   24.23%    263.8MiB / 512MiB   51.52%    46.9MB / 27.6MB   209kB / 1.55MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   22.36%    264.3MiB / 512MiB   51.62%    47.7MB / 28MB   209kB / 1.59MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   13.22%    263.9MiB / 512MiB   51.55%    48.6MB / 28.6MB   209kB / 1.6MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   8.89%     263.8MiB / 512MiB   51.53%    49.5MB / 29.2MB   209kB / 1.6MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   12.02%    263.5MiB / 512MiB   51.46%    50.4MB / 29.8MB   209kB / 1.63MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   28.68%    324.6MiB / 512MiB   63.39%    51.5MB / 30.4MB   209kB / 1.65MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   14.51%    263.6MiB / 512MiB   51.48%    52.4MB / 30.9MB   209kB / 1.65MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   14.77%    263MiB / 512MiB     51.36%    53.3MB / 31.5MB   209kB / 1.67MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   12.41%    262.5MiB / 512MiB   51.27%    54.3MB / 32.1MB   209kB / 1.7MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   10.42%    262.1MiB / 512MiB   51.19%    55.2MB / 32.7MB   209kB / 1.7MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   11.93%    262.1MiB / 512MiB   51.20%    56MB / 33.2MB   209kB / 1.72MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   11.53%    262.1MiB / 512MiB   51.18%    56.9MB / 33.8MB   209kB / 1.73MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   9.79%     262MiB / 512MiB     51.17%    57.6MB / 34.2MB   209kB / 1.75MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   8.69%     262.1MiB / 512MiB   51.19%    58.5MB / 34.8MB   209kB / 1.77MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   13.34%    261.5MiB / 512MiB   51.07%    59.5MB / 35.4MB   209kB / 1.78MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   49.56%    274.8MiB / 512MiB   53.66%    60.4MB / 36MB   209kB / 1.8MB   219
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   12.79%    263.2MiB / 512MiB   51.40%    61.4MB / 36.5MB   209kB / 1.81MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   21.13%    316.6MiB / 512MiB   61.83%    62.4MB / 37.1MB   209kB / 1.83MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   19.25%    263.3MiB / 512MiB   51.43%    63.3MB / 37.7MB   209kB / 1.85MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   13.88%    262.9MiB / 512MiB   51.34%    64.3MB / 38.2MB   209kB / 1.86MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   20.62%    262.8MiB / 512MiB   51.33%    65.2MB / 38.8MB   209kB / 1.88MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   22.56%    263.2MiB / 512MiB   51.40%    66.2MB / 39.3MB   209kB / 1.9MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   29.08%    308.9MiB / 512MiB   60.33%    67.1MB / 39.9MB   209kB / 1.91MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   34.82%    309.6MiB / 512MiB   60.46%    68.1MB / 40.3MB   209kB / 1.93MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   20.12%    263.8MiB / 512MiB   51.53%    69MB / 40.9MB   209kB / 1.95MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   16.45%    263.3MiB / 512MiB   51.42%    70MB / 41.5MB   209kB / 1.96MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   20.02%    262.7MiB / 512MiB   51.30%    71MB / 42.1MB   209kB / 1.99MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   49.47%    292.1MiB / 512MiB   57.05%    72.1MB / 42.7MB   209kB / 2.02MB   220
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   49.35%    266MiB / 512MiB     51.96%    73.3MB / 43.3MB   209kB / 2.04MB   223
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   38.28%    295.7MiB / 512MiB   57.76%    74.2MB / 43.8MB   209kB / 2.05MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   10.06%    265MiB / 512MiB     51.76%    74.9MB / 44.2MB   209kB / 2.07MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   11.11%    265.7MiB / 512MiB   51.89%    75.7MB / 44.7MB   209kB / 2.08MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   20.89%    265.6MiB / 512MiB   51.88%    76.6MB / 45.2MB   209kB / 2.1MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   14.06%    324.4MiB / 512MiB   63.36%    77.4MB / 45.7MB   209kB / 2.1MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   10.16%    266MiB / 512MiB     51.96%    78.2MB / 46.2MB   209kB / 2.12MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   12.97%    266.1MiB / 512MiB   51.97%    78.9MB / 46.7MB   209kB / 2.13MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   10.51%    266.2MiB / 512MiB   51.99%    79.7MB / 47.2MB   209kB / 2.15MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   13.54%    325.8MiB / 512MiB   63.64%    80.5MB / 47.7MB   209kB / 2.16MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   12.25%    266.5MiB / 512MiB   52.06%    81.3MB / 48.2MB   209kB / 2.18MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   9.33%     266.7MiB / 512MiB   52.08%    82.1MB / 48.7MB   209kB / 2.2MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   11.36%    266.8MiB / 512MiB   52.11%    82.8MB / 49.2MB   209kB / 2.21MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   17.73%    266.8MiB / 512MiB   52.11%    83.7MB / 49.7MB   209kB / 2.24MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   11.41%    266.9MiB / 512MiB   52.12%    84.5MB / 50.2MB   209kB / 2.24MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   10.58%    266.6MiB / 512MiB   52.08%    85.4MB / 50.8MB   209kB / 2.26MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   12.35%    266.8MiB / 512MiB   52.10%    86.2MB / 51.3MB   209kB / 2.29MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   10.74%    266.6MiB / 512MiB   52.06%    87.1MB / 51.9MB   209kB / 2.29MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   12.18%    266.9MiB / 512MiB   52.13%    87.9MB / 52.4MB   209kB / 2.32MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   11.06%    266.3MiB / 512MiB   52.02%    88.9MB / 53MB   209kB / 2.32MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   10.79%    266.4MiB / 512MiB   52.02%    89.7MB / 53.5MB   209kB / 2.33MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   12.57%    265.8MiB / 512MiB   51.91%    90.6MB / 54.1MB   209kB / 2.35MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   13.99%    265.4MiB / 512MiB   51.83%    91.5MB / 54.7MB   209kB / 2.36MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   12.67%    265.1MiB / 512MiB   51.77%    92.5MB / 55.3MB   209kB / 2.4MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   9.75%     265.2MiB / 512MiB   51.80%    93.3MB / 55.8MB   209kB / 2.41MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   9.96%     265.1MiB / 512MiB   51.77%    94.1MB / 56.4MB   209kB / 2.42MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   10.65%    265.3MiB / 512MiB   51.82%    94.9MB / 56.8MB   209kB / 2.44MB   218
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   49.38%    266.9MiB / 512MiB   52.13%    96.2MB / 57.4MB   209kB / 2.45MB   229
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   0.16%     82.65MiB / 512MiB   16.14%    4.24kB / 0B   57.3kB / 111kB   27
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   0.15%     82.65MiB / 512MiB   16.14%    4.24kB / 0B   57.3kB / 127kB   27
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   0.12%     82.65MiB / 512MiB   16.14%    4.24kB / 0B   57.3kB / 127kB   27
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   0.17%     82.66MiB / 512MiB   16.14%    4.24kB / 0B   57.3kB / 143kB   27
+ba1dffe096a9   example-classic-service-1   21.79%    325.5MiB / 512MiB   63.57%    97MB / 58MB   209kB / 2.47MB   218
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   49.25%    95.14MiB / 512MiB   18.58%    34.9kB / 5.27kB   57.3kB / 160kB   27
+ba1dffe096a9   example-classic-service-1   12.56%    264.4MiB / 512MiB   51.65%    98.1MB / 58.6MB   209kB / 2.49MB   218
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   49.13%    103.5MiB / 512MiB   20.21%    88.1kB / 14.2kB   57.3kB / 176kB   28
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   5.04%     105.8MiB / 512MiB   20.66%    119kB / 44.3kB   57.3kB / 193kB   32
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   21.95%    106.7MiB / 512MiB   20.84%    168kB / 75.8kB   57.3kB / 225kB   32
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   14.15%    107.5MiB / 512MiB   21.00%    256kB / 131kB   57.3kB / 242kB   32
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   30.94%    109.8MiB / 512MiB   21.45%    370kB / 203kB   57.3kB / 258kB   32
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   25.04%    110.6MiB / 512MiB   21.61%    461kB / 259kB   57.3kB / 279kB   32
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   13.56%    110.8MiB / 512MiB   21.64%    552kB / 317kB   57.3kB / 279kB   32
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   15.05%    112.8MiB / 512MiB   22.04%    676kB / 397kB   57.3kB / 311kB   32
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   18.47%    113.5MiB / 512MiB   22.16%    781kB / 464kB   57.3kB / 328kB   32
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   23.83%    116.1MiB / 512MiB   22.69%    916kB / 549kB   57.3kB / 344kB   32
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   47.45%    118MiB / 512MiB     23.04%    1.06MB / 637kB   57.3kB / 344kB   32
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   21.97%    117MiB / 512MiB     22.86%    1.3MB / 779kB   57.3kB / 344kB   32
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   28.33%    119.2MiB / 512MiB   23.29%    1.49MB / 900kB   57.3kB / 360kB   32
+ba1dffe096a9   example-classic-service-1   12.57%    262.1MiB / 512MiB   51.20%    98.9MB / 59.1MB   209kB / 2.52MB   218
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   34.75%    119.6MiB / 512MiB   23.36%    1.71MB / 1.03MB   57.3kB / 377kB   32
+ba1dffe096a9   example-classic-service-1   3.99%     261.6MiB / 512MiB   51.10%    98.9MB / 59.2MB   209kB / 2.52MB   218
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   20.72%    120.8MiB / 512MiB   23.59%    1.88MB / 1.13MB   57.3kB / 377kB   32
+ba1dffe096a9   example-classic-service-1   0.60%     261.2MiB / 512MiB   51.02%    98.9MB / 59.2MB   209kB / 2.54MB   217
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   24.12%    121.2MiB / 512MiB   23.68%    2.13MB / 1.27MB   57.3kB / 393kB   32
+ba1dffe096a9   example-classic-service-1   0.23%     261.2MiB / 512MiB   51.02%    98.9MB / 59.2MB   209kB / 2.56MB   217
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   22.49%    122MiB / 512MiB     23.82%    2.37MB / 1.41MB   57.3kB / 410kB   32
+ba1dffe096a9   example-classic-service-1   0.22%     261.2MiB / 512MiB   51.02%    98.9MB / 59.2MB   209kB / 2.57MB   217
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   24.42%    133.2MiB / 512MiB   26.01%    2.58MB / 1.54MB   57.3kB / 410kB   32
+ba1dffe096a9   example-classic-service-1   0.19%     261.2MiB / 512MiB   51.02%    98.9MB / 59.2MB   209kB / 2.58MB   217
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   37.68%    134.2MiB / 512MiB   26.22%    2.91MB / 1.72MB   57.3kB / 442kB   32
+ba1dffe096a9   example-classic-service-1   0.20%     261.2MiB / 512MiB   51.02%    98.9MB / 59.2MB   209kB / 2.58MB   217
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   21.20%    126MiB / 512MiB     24.62%    3.23MB / 1.92MB   57.3kB / 459kB   32
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   42.16%    128.3MiB / 512MiB   25.06%    3.57MB / 2.1MB   57.3kB / 492kB   32
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   28.50%    129MiB / 512MiB     25.19%    3.9MB / 2.3MB   57.3kB / 492kB   35
+ba1dffe096a9   example-classic-service-1   0.24%     261.2MiB / 512MiB   51.02%    98.9MB / 59.2MB   209kB / 2.59MB   217
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   0.21%     261.2MiB / 512MiB   51.02%    98.9MB / 59.2MB   209kB / 2.6MB   217
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   39.44%    132.8MiB / 512MiB   25.93%    4.25MB / 2.49MB   57.3kB / 516kB   35
+ba1dffe096a9   example-classic-service-1   0.18%     261.2MiB / 512MiB   51.02%    98.9MB / 59.2MB   209kB / 2.61MB   217
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   33.20%    132.4MiB / 512MiB   25.87%    4.57MB / 2.67MB   57.3kB / 532kB   35
+ba1dffe096a9   example-classic-service-1   0.18%     261.2MiB / 512MiB   51.02%    98.9MB / 59.2MB   209kB / 2.62MB   217
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   40.46%    133.1MiB / 512MiB   25.99%    4.91MB / 2.86MB   57.3kB / 532kB   39
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   32.30%    141.9MiB / 512MiB   27.71%    5.37MB / 3.1MB   57.3kB / 549kB   48
+ba1dffe096a9   example-classic-service-1   0.19%     261.2MiB / 512MiB   51.02%    98.9MB / 59.2MB   209kB / 2.63MB   217
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   39.13%    144.2MiB / 512MiB   28.17%    5.84MB / 3.35MB   57.3kB / 565kB   48
+ba1dffe096a9   example-classic-service-1   0.18%     261.2MiB / 512MiB   51.02%    98.9MB / 59.2MB   209kB / 2.64MB   217
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   31.05%    144.7MiB / 512MiB   28.26%    6.28MB / 3.61MB   57.3kB / 582kB   48
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   33.17%    144.6MiB / 512MiB   28.25%    6.7MB / 3.86MB   57.3kB / 598kB   48
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   40.72%    146.2MiB / 512MiB   28.55%    7.11MB / 4.1MB   57.3kB / 614kB   48
+ba1dffe096a9   example-classic-service-1   0.17%     261.2MiB / 512MiB   51.02%    98.9MB / 59.2MB   209kB / 2.65MB   217
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   34.34%    146.7MiB / 512MiB   28.66%    7.54MB / 4.35MB   57.3kB / 631kB   50
+ba1dffe096a9   example-classic-service-1   0.23%     261.2MiB / 512MiB   51.02%    98.9MB / 59.2MB   209kB / 2.66MB   217
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   33.55%    148.7MiB / 512MiB   29.04%    8.05MB / 4.63MB   57.3kB / 631kB   48
+ba1dffe096a9   example-classic-service-1   0.19%     261.2MiB / 512MiB   51.02%    98.9MB / 59.2MB   209kB / 2.66MB   217
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   33.06%    149.4MiB / 512MiB   29.18%    8.49MB / 4.87MB   57.3kB / 647kB   49
+ba1dffe096a9   example-classic-service-1   0.20%     261.2MiB / 512MiB   51.02%    98.9MB / 59.2MB   209kB / 2.66MB   217
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   28.61%    151.1MiB / 512MiB   29.51%    8.98MB / 5.15MB   57.3kB / 664kB   48
+ba1dffe096a9   example-classic-service-1   0.19%     261.2MiB / 512MiB   51.02%    98.9MB / 59.2MB   209kB / 2.69MB   217
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   0.23%     261.2MiB / 512MiB   51.02%    98.9MB / 59.2MB   209kB / 2.7MB   217
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   0.19%     261.2MiB / 512MiB   51.03%    98.9MB / 59.2MB   209kB / 2.7MB   217
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   23.13%    150.8MiB / 512MiB   29.45%    9.53MB / 5.45MB   57.3kB / 664kB   48
+ba1dffe096a9   example-classic-service-1   0.19%     261.2MiB / 512MiB   51.03%    98.9MB / 59.2MB   209kB / 2.72MB   217
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   39.26%    159.7MiB / 512MiB   31.19%    10.1MB / 5.76MB   57.3kB / 680kB   48
+ba1dffe096a9   example-classic-service-1   0.19%     261.2MiB / 512MiB   51.02%    98.9MB / 59.2MB   209kB / 2.73MB   217
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   44.42%    158.4MiB / 512MiB   30.94%    10.5MB / 6.02MB   57.3kB / 696kB   48
+ba1dffe096a9   example-classic-service-1   0.20%     261.2MiB / 512MiB   51.02%    98.9MB / 59.2MB   209kB / 2.74MB   217
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   28.99%    157.9MiB / 512MiB   30.83%    11.1MB / 6.34MB   57.3kB / 729kB   48
+ba1dffe096a9   example-classic-service-1   0.17%     261.2MiB / 512MiB   51.02%    98.9MB / 59.2MB   209kB / 2.74MB   217
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   15.61%    155.4MiB / 512MiB   30.35%    11.6MB / 6.64MB   57.3kB / 745kB   48
+ba1dffe096a9   example-classic-service-1   4.59%     251.2MiB / 512MiB   49.07%    98.9MB / 59.2MB   209kB / 2.75MB   138
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   26.71%    155.9MiB / 512MiB   30.45%    12.1MB / 6.93MB   57.3kB / 762kB   48
+ba1dffe096a9   example-classic-service-1   0.18%     236.4MiB / 512MiB   46.18%    98.9MB / 59.2MB   209kB / 2.79MB   27
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   51.27%    159MiB / 512MiB     31.05%    12.7MB / 7.25MB   57.3kB / 778kB   50
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   24.05%    160.3MiB / 512MiB   31.30%    13.3MB / 7.6MB   57.3kB / 795kB   50
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   50.44%    174.7MiB / 512MiB   34.12%    14MB / 7.96MB   57.3kB / 811kB   79
+ba1dffe096a9   example-classic-service-1   0.25%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.79MB   27
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   50.17%    190.1MiB / 512MiB   37.12%    14.9MB / 8.36MB   57.3kB / 827kB   96
+ba1dffe096a9   example-classic-service-1   0.18%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.79MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   0.17%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.8MB   27
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   49.83%    211.3MiB / 512MiB   41.28%    15.5MB / 8.64MB   57.3kB / 844kB   113
+ba1dffe096a9   example-classic-service-1   0.16%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.82MB   27
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   50.43%    227.7MiB / 512MiB   44.48%    16.1MB / 8.99MB   57.3kB / 860kB   128
+ba1dffe096a9   example-classic-service-1   0.22%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.83MB   27
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   49.72%    225.8MiB / 512MiB   44.11%    16.9MB / 9.33MB   57.3kB / 860kB   142
+ba1dffe096a9   example-classic-service-1   0.18%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.83MB   27
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   49.40%    236MiB / 512MiB     46.09%    17.5MB / 9.64MB   57.3kB / 893kB   164
+ba1dffe096a9   example-classic-service-1   0.18%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.84MB   27
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   51.00%    232.3MiB / 512MiB   45.38%    18.4MB / 10.1MB   57.3kB / 893kB   175
+ba1dffe096a9   example-classic-service-1   0.17%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.84MB   27
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   50.11%    271.9MiB / 512MiB   53.10%    19.3MB / 10.5MB   57.3kB / 909kB   182
+ba1dffe096a9   example-classic-service-1   0.34%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.85MB   27
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   49.90%    252.8MiB / 512MiB   49.37%    19.8MB / 10.7MB   57.3kB / 909kB   200
+ba1dffe096a9   example-classic-service-1   0.19%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.87MB   27
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   49.65%    265.2MiB / 512MiB   51.80%    20.5MB / 11.1MB   57.3kB / 926kB   206
+ba1dffe096a9   example-classic-service-1   0.17%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.88MB   27
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   49.38%    267.1MiB / 512MiB   52.16%    21.3MB / 11.6MB   57.3kB / 942kB   218
+ba1dffe096a9   example-classic-service-1   0.20%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.89MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   0.21%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.9MB   27
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   49.22%    268.4MiB / 512MiB   52.41%    22.3MB / 12.3MB   57.3kB / 942kB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   49.35%    267MiB / 512MiB     52.15%    23.4MB / 13MB   57.3kB / 958kB   218
+ba1dffe096a9   example-classic-service-1   0.18%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.91MB   27
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   48.62%    264.2MiB / 512MiB   51.59%    24.3MB / 13.5MB   57.3kB / 975kB   218
+ba1dffe096a9   example-classic-service-1   0.18%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.92MB   27
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   47.86%    259MiB / 512MiB     50.59%    24.9MB / 13.9MB   57.3kB / 991kB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   47.86%    266.4MiB / 512MiB   52.03%    25.6MB / 14.4MB   57.3kB / 1.01MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   48.63%    265.9MiB / 512MiB   51.92%    26.3MB / 14.9MB   57.3kB / 1.02MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   25.85%    260.1MiB / 512MiB   50.80%    27.2MB / 15.4MB   57.3kB / 1.02MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   18.67%    257.8MiB / 512MiB   50.35%    28MB / 15.9MB   57.3kB / 1.04MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   25.53%    257.9MiB / 512MiB   50.37%    28.7MB / 16.4MB   57.3kB / 1.07MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   37.56%    260.3MiB / 512MiB   50.85%    29.5MB / 16.9MB   57.3kB / 1.07MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   47.90%    268.2MiB / 512MiB   52.38%    30.2MB / 17.3MB   57.3kB / 1.09MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   40.23%    264MiB / 512MiB     51.56%    31.1MB / 17.9MB   57.3kB / 1.11MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   28.14%    264.2MiB / 512MiB   51.61%    31.9MB / 18.4MB   57.3kB / 1.12MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   37.27%    259.3MiB / 512MiB   50.64%    32.8MB / 18.9MB   57.3kB / 1.14MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   33.27%    259.8MiB / 512MiB   50.75%    33.7MB / 19.5MB   57.3kB / 1.14MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   16.05%    259.1MiB / 512MiB   50.61%    34.6MB / 20MB   57.3kB / 1.17MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   16.94%    259.3MiB / 512MiB   50.65%    35.5MB / 20.5MB   57.3kB / 1.19MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   13.92%    264.2MiB / 512MiB   51.60%    36.3MB / 21MB   57.3kB / 1.19MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   16.84%    264.6MiB / 512MiB   51.68%    37.2MB / 21.6MB   57.3kB / 1.22MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   36.16%    261.5MiB / 512MiB   51.07%    38.1MB / 22.1MB   57.3kB / 1.24MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   13.71%    261.3MiB / 512MiB   51.03%    39.1MB / 22.7MB   57.3kB / 1.25MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   30.65%    259.9MiB / 512MiB   50.76%    40MB / 23.3MB   57.3kB / 1.27MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   33.57%    260.2MiB / 512MiB   50.82%    41MB / 23.8MB   57.3kB / 1.29MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   12.96%    260MiB / 512MiB     50.77%    41.9MB / 24.4MB   57.3kB / 1.29MB   218
+ba1dffe096a9   example-classic-service-1   0.21%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.92MB   27
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   19.23%    260.2MiB / 512MiB   50.83%    42.7MB / 24.9MB   57.3kB / 1.3MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   19.96%    260.8MiB / 512MiB   50.93%    43.7MB / 25.4MB   57.3kB / 1.32MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   15.07%    261.2MiB / 512MiB   51.02%    44.6MB / 26MB   57.3kB / 1.34MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   13.83%    261.7MiB / 512MiB   51.11%    45.5MB / 26.5MB   57.3kB / 1.35MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   12.37%    262MiB / 512MiB     51.17%    46.4MB / 27.1MB   57.3kB / 1.37MB   218
+ba1dffe096a9   example-classic-service-1   0.18%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.93MB   27
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   27.46%    313.9MiB / 512MiB   61.31%    47.4MB / 27.6MB   57.3kB / 1.4MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   14.46%    314.1MiB / 512MiB   61.35%    48.3MB / 28.2MB   57.3kB / 1.42MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   15.48%    262.9MiB / 512MiB   51.34%    49.2MB / 28.7MB   57.3kB / 1.42MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   13.80%    262.8MiB / 512MiB   51.32%    50.1MB / 29.3MB   57.3kB / 1.43MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   14.13%    263MiB / 512MiB     51.37%    51MB / 29.8MB   57.3kB / 1.43MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   20.37%    262.8MiB / 512MiB   51.33%    51.9MB / 30.4MB   57.3kB / 1.45MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   13.28%    262.5MiB / 512MiB   51.27%    52.8MB / 30.9MB   57.3kB / 1.47MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   18.95%    262.7MiB / 512MiB   51.31%    53.7MB / 31.4MB   57.3kB / 1.48MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   16.83%    262.4MiB / 512MiB   51.25%    54.5MB / 32MB   57.3kB / 1.5MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   15.36%    262.6MiB / 512MiB   51.28%    55.4MB / 32.5MB   57.3kB / 1.52MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   11.71%    262.7MiB / 512MiB   51.30%    56.3MB / 33MB   57.3kB / 1.53MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   13.10%    262.6MiB / 512MiB   51.28%    57.1MB / 33.5MB   57.3kB / 1.53MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   12.83%    262.6MiB / 512MiB   51.29%    58MB / 34.1MB   57.3kB / 1.56MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   12.82%    262.5MiB / 512MiB   51.27%    58.8MB / 34.6MB   57.3kB / 1.57MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   15.92%    262.5MiB / 512MiB   51.27%    59.7MB / 35.1MB   57.3kB / 1.59MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   14.13%    262.5MiB / 512MiB   51.28%    60.6MB / 35.7MB   57.3kB / 1.61MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   13.23%    262.5MiB / 512MiB   51.27%    61.4MB / 36.2MB   57.3kB / 1.62MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   11.51%    262.5MiB / 512MiB   51.28%    62.3MB / 36.7MB   57.3kB / 1.64MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   14.84%    262.7MiB / 512MiB   51.30%    63.1MB / 37.3MB   57.3kB / 1.65MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   13.37%    262.7MiB / 512MiB   51.30%    64MB / 37.8MB   57.3kB / 1.68MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   49.50%    312.2MiB / 512MiB   60.98%    64.9MB / 38.3MB   57.3kB / 1.69MB   223
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   50.16%    317.7MiB / 512MiB   62.04%    65.9MB / 38.7MB   57.3kB / 1.71MB   236
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   49.13%    330.7MiB / 512MiB   64.59%    66.9MB / 39.1MB   57.3kB / 1.72MB   253
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   49.73%    324.8MiB / 512MiB   63.43%    68MB / 39.7MB   57.3kB / 1.74MB   219
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   18.00%    324.1MiB / 512MiB   63.30%    69.2MB / 40.5MB   57.3kB / 1.76MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   14.03%    266.2MiB / 512MiB   52.00%    70MB / 41MB   57.3kB / 1.77MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   18.30%    265.2MiB / 512MiB   51.79%    71.1MB / 41.7MB   57.3kB / 1.79MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   17.29%    264.9MiB / 512MiB   51.75%    72.1MB / 42.3MB   57.3kB / 1.79MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   22.59%    264.8MiB / 512MiB   51.73%    73.1MB / 42.9MB   57.3kB / 1.81MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   15.96%    264.3MiB / 512MiB   51.61%    74.2MB / 43.5MB   57.3kB / 1.81MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   31.68%    265.2MiB / 512MiB   51.79%    75.3MB / 44.2MB   57.3kB / 1.82MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   21.12%    264.8MiB / 512MiB   51.71%    76.2MB / 44.8MB   57.3kB / 1.84MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   12.63%    272.1MiB / 512MiB   53.15%    77.1MB / 45.3MB   57.3kB / 1.86MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   14.33%    263.4MiB / 512MiB   51.44%    77.9MB / 45.8MB   57.3kB / 1.89MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   11.08%    263.5MiB / 512MiB   51.46%    78.8MB / 46.4MB   57.3kB / 1.89MB   218
+ba1dffe096a9   example-classic-service-1   0.19%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.94MB   27
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   11.95%    263.3MiB / 512MiB   51.43%    79.7MB / 46.9MB   57.3kB / 1.9MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   13.49%    263.3MiB / 512MiB   51.44%    80.5MB / 47.4MB   57.3kB / 1.92MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   11.55%    263.7MiB / 512MiB   51.51%    81.3MB / 48MB   57.3kB / 1.94MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   12.85%    268MiB / 512MiB     52.35%    82.2MB / 48.5MB   57.3kB / 1.94MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   13.78%    263.8MiB / 512MiB   51.53%    83.1MB / 49MB   57.3kB / 1.97MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   16.00%    263.8MiB / 512MiB   51.53%    84MB / 49.6MB   57.3kB / 1.99MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   14.08%    264MiB / 512MiB     51.55%    84.8MB / 50.1MB   57.3kB / 1.99MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O      PIDS
-ba1dffe096a9   example-classic-service-1   15.02%    263.6MiB / 512MiB   51.49%    85.7MB / 50.6MB   57.3kB / 2MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   11.01%    263.5MiB / 512MiB   51.46%    86.6MB / 51.1MB   57.3kB / 2.02MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   17.41%    263.8MiB / 512MiB   51.53%    87.5MB / 51.7MB   57.3kB / 2.04MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   10.91%    263.8MiB / 512MiB   51.51%    88.5MB / 52.2MB   57.3kB / 2.05MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   15.79%    263.6MiB / 512MiB   51.49%    89.3MB / 52.8MB   57.3kB / 2.05MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   15.32%    263.8MiB / 512MiB   51.51%    90.2MB / 53.3MB   57.3kB / 2.07MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   11.73%    263.9MiB / 512MiB   51.54%    91.1MB / 53.8MB   57.3kB / 2.08MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   12.57%    263.8MiB / 512MiB   51.52%    92MB / 54.4MB   57.3kB / 2.1MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   17.28%    263.8MiB / 512MiB   51.53%    92.9MB / 54.9MB   57.3kB / 2.13MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   13.65%    263.8MiB / 512MiB   51.52%    93.8MB / 55.5MB   57.3kB / 2.13MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   12.93%    263.7MiB / 512MiB   51.50%    94.7MB / 56MB   57.3kB / 2.15MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   13.95%    263.5MiB / 512MiB   51.47%    95.6MB / 56.5MB   57.3kB / 2.17MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   12.18%    263.6MiB / 512MiB   51.49%    96.5MB / 57.1MB   57.3kB / 2.18MB   218
+ba1dffe096a9   example-classic-service-1   0.18%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.95MB   27
 CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
-ba1dffe096a9   example-classic-service-1   15.41%    263.5MiB / 512MiB   51.46%    97.3MB / 57.6MB   57.3kB / 2.2MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   12.23%    263.5MiB / 512MiB   51.47%    98.2MB / 58.1MB   57.3kB / 2.21MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   12.62%    263.6MiB / 512MiB   51.48%    99MB / 58.7MB   57.3kB / 2.23MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   13.12%    263.6MiB / 512MiB   51.49%    99.9MB / 59.2MB   57.3kB / 2.24MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   12.22%    263.7MiB / 512MiB   51.51%    101MB / 59.7MB   57.3kB / 2.26MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   4.06%     263MiB / 512MiB     51.37%    101MB / 60.1MB   57.3kB / 2.26MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   0.30%     262.5MiB / 512MiB   51.28%    101MB / 60.1MB   57.3kB / 2.26MB   218
-CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O         PIDS
-ba1dffe096a9   example-classic-service-1   0.30%     262.5MiB / 512MiB   51.28%    101MB / 60.1MB   57.3kB / 2.27MB   218
+ba1dffe096a9   example-classic-service-1   0.21%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.96MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.20%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.97MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.19%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.97MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.18%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.98MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.21%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 2.99MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
+ba1dffe096a9   example-classic-service-1   0.19%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.21%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.01MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.18%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.01MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.29%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.02MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.19%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.04MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.21%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.05MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.18%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.06MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.23%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.07MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.18%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.08MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.21%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.09MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   0.19%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.1MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   0.19%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.1MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.20%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.11MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.20%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.12MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.23%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.13MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.17%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.14MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.19%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.15MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.19%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.15MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.22%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.16MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.18%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.17MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.18%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.18MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.20%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.19MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.19%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.19MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O       PIDS
+ba1dffe096a9   example-classic-service-1   0.19%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.2MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.18%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.22MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.18%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.23MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.18%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.23MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.18%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.25MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.20%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.25MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.18%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.26MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.24%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.27MB   27
+CONTAINER ID   NAME                        CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+ba1dffe096a9   example-classic-service-1   0.14%     236.4MiB / 512MiB   46.17%    98.9MB / 59.2MB   209kB / 3.28MB   27
